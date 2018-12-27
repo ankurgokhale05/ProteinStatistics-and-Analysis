@@ -3,7 +3,7 @@ Prediction of protein statistics and properties using neural networks.
 
 
 #Requirments
-Python 2.7
+Python 3+/2.7
 
 Keras(Theano)
 
